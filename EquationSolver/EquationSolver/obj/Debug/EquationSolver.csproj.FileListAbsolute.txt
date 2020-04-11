@@ -1,0 +1,14 @@
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\EquationSolver.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\EquationSolver.pdb
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\obj\Debug\EquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\obj\Debug\EquationSolver.csproj.CopyComplete
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\obj\Debug\EquationSolver.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\obj\Debug\EquationSolver.pdb
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\EquationSolver\obj\Debug\EquationSolver.csprojAssemblyReference.cache

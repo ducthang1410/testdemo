@@ -1,0 +1,8 @@
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\.vs\EquationSolver\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\.vs\EquationSolver\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\.vs\EquationSolver\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\.vs\EquationSolver\lut\0\b\EquationSolver.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\.vs\EquationSolver\lut\0\i\EquationSolver\Debug\EquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\.vs\EquationSolver\lut\0\i\EquationSolver\Debug\EquationSolver.csproj.CopyComplete
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\.vs\EquationSolver\lut\0\i\EquationSolver\Debug\EquationSolver.dll
+C:\Users\Yomui\Desktop\Test Group Project\EquationSolver\.vs\EquationSolver\lut\0\i\EquationSolver\Debug\EquationSolver.csprojAssemblyReference.cache

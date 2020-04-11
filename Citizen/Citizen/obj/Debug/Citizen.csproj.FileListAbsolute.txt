@@ -1,0 +1,14 @@
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Citizen.dll
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Citizen.pdb
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\obj\Debug\Citizen.csprojAssemblyReference.cache
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\obj\Debug\Citizen.csproj.CoreCompileInputs.cache
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\obj\Debug\Citizen.csproj.CopyComplete
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\obj\Debug\Citizen.dll
+C:\Users\Yomui\Desktop\Test Group Project\Citizen\Citizen\obj\Debug\Citizen.pdb

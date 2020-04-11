@@ -1,0 +1,14 @@
+C:\Users\Yomui\source\repos\Animal\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\Yomui\source\repos\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Animal.dll
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Animal.pdb
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yomui\source\repos\Animal\Animal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yomui\source\repos\Animal\Animal\obj\Debug\Animal.csproj.CopyComplete
+C:\Users\Yomui\source\repos\Animal\Animal\obj\Debug\Animal.dll
+C:\Users\Yomui\source\repos\Animal\Animal\obj\Debug\Animal.pdb

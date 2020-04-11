@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Documents\Summer 2019\SWT\Date Checker Library\DateCheckerLibrary\bin\Debug\DateCheckerLibrary.dll" total="31" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2019-07-22" time="13:03:53">
+  <environment nunit-version="2.7.0.0" clr-version="2.0.50727.8941" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.7.0\bin" machine-name="SE130051" user="LENOVO" user-domain="SE130051" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Documents\Summer 2019\SWT\Date Checker Library\DateCheckerLibrary\bin\Debug\DateCheckerLibrary.dll" executed="True" result="Success" success="True" time="0.190" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="DateCheckerLibrary" executed="True" result="Success" success="True" time="0.189" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CheckDateInMonth" executed="True" result="Success" success="True" time="0.110" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest1" executed="True" result="Success" success="True" time="0.007" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest1()" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest10" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest10()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest11" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest11()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest13" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest13()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest14" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest14()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest15" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest15()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest16" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest16()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest17" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest17()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest18" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest18()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest2" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest2()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest3" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest3()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest4" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest4()" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest5" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest5()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest6" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest6()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest7" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest7()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest8" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest8()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckDayInMonthTest9" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckDateInMonth.CheckDayInMonthTest9()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="CheckIsValidDate" executed="True" result="Success" success="True" time="0.070" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest1" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest1()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest10" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest10()" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest11" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest11()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest12" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest12()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest13" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest13()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest14" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest14()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest2" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest2()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest3" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest3()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest4" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest4()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest5" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest5()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest6" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest6()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest7" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest7()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest8" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest8()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CheckIsValidDateTest9" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="DateCheckerLibrary.CheckIsValidDate.CheckIsValidDateTest9()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
